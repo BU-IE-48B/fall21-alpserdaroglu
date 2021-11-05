@@ -232,7 +232,7 @@ Gesture 7 is a clockwise circular gesture. The observation plotted below first s
 
 ```{r}
 scatterplot3d(x = Top1_Gesture[Class == 7, X_Pos], y = Top1_Gesture[Class == 7, Y_Pos], z = Top1_Gesture[Class == 7, Z_Pos], box = FALSE,
-main = 'Gesture 6', xlab = 'Velocity X', ylab = 'Velocity Y', zlab = 'Velocity Z')
+main = 'Gesture 7', xlab = 'Velocity X', ylab = 'Velocity Y', zlab = 'Velocity Z')
 
 ```
 
@@ -242,7 +242,7 @@ Gesture 8 is a counter-clockwise circular gesture. The observation plotted below
 
 ```{r}
 scatterplot3d(x = Top1_Gesture[Class == 8, X_Pos], y = Top1_Gesture[Class == 8, Y_Pos], z = Top1_Gesture[Class == 8, Z_Pos], box = FALSE,
-main = 'Gesture 6', xlab = 'Velocity X', ylab = 'Velocity Y', zlab = 'Velocity Z')
+main = 'Gesture 8', xlab = 'Velocity X', ylab = 'Velocity Y', zlab = 'Velocity Z')
 ```
 
 ## Velocity over Time
