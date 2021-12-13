@@ -11,7 +11,23 @@ Created at 14-10-2021
 
 [R Code for Homework 1](Homework 1/Assignment_1.R)
 
-## Homework  (Nov 22)
+## Homework 2 (Nov 22)
 [Homework 2](Homework 2/Assignment_2.html)
 
 [R Code for Homework 2](Homework 2/Assignment_2.R)
+
+## Homework 3 (Dec 13)
+[Homework 3 - Dataset 1](Homework 3/Assignment 3 - Plane.html)
+[R Code for Homework 3 - Dataset 1](Homework 3/Assignment 3 - Plane.ipynb)
+
+[Homework 3 - Dataset 2](Homework 3/Assignment 3 - Power Cons.html)
+[R Code for Homework 3 - Dataset 2](Homework 3/Assignment 3 - PowerCons.ipynb)
+
+[Homework 3 - Dataset 3](Homework 3/Assignment 3 - ECG200.html)
+[R Code for Homework 3 - Dataset 3](Homework 3/Assignment 3 - ECG200.ipynb)
+
+[Homework 3 - Dataset 4](Homework 3/Assignment 3 - SmoothSubspace.html)
+[R Code for Homework 3 - Dataset 4](Homework 3/Assignment 3 - SmoothSubspace.ipynb)
+
+[Homework 3 - Dataset 5](Homework 3/Assignment 3 - Synthetic Control.html)
+[R Code for Homework 3 - Dataset 5](Homework 3/Assignment 3 - Synthetic Control.ipynb)
