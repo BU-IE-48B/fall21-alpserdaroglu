@@ -36,3 +36,7 @@ Created at 14-10-2021
 [Homework 3 - Dataset 5](Homework 3/Assignment 3 - Synthetic Control.html)
 
 [R Code for Homework 3 - Dataset 5](Homework 3/Assignment 3 - Synthetic Control.ipynb)
+
+## Project (Jan 24)
+[Project](Project/IE 48B Project Report.html)
+[Project (PDF Version)](Project/IE 48B Project Report.pdf)
